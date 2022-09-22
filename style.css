@@ -1,0 +1,305 @@
+*
+{
+    margin:0; 
+    box-sizing: border-box;
+    font-family: adobe-clean, "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+.header
+{
+   display: flex;
+   height: 60px;
+   background-color: #fff;
+}
+.adblogo
+{
+    display: flex;
+    margin-left: 54px;
+    height: 60px;
+}
+.lense
+{
+    display: flex;
+    margin-left: 1240px;
+    height: 20px;
+    margin-top: 18px;
+}
+.signin
+{
+    
+    display: flex;
+    margin-left: 5px;
+    height: 20px;
+    margin-top: 18px;
+}
+
+.mainbody
+{
+    display: flex;
+    flex-direction: column;
+    background-image:url(/images/Lr-SEM-LP-.jpg);
+    height: 680px;
+}
+.lrlogo
+{
+        display: flex;
+        margin-left: -1134px;
+        height: 68px;
+        margin-top: 44px;
+    
+
+}
+.boldtext
+{
+    display: flex;
+    margin-left: 160px;
+    height: 68px;
+    margin-top: 65px;
+}
+.text1
+{
+    display: flex;
+    margin-left: 160px;
+    height: 68px;
+    margin-top: 75px;
+    line-height: 2;
+    font-weight: 600;
+}
+.textbold
+{
+font-size: 41px;
+font-weight: bold;
+}
+
+.button1
+{
+    display: flex;
+    margin-left: 164px;
+    margin-top: 60px;
+    width: 50%;
+    
+
+}
+
+.buybutton
+{   
+    width: 145px;
+    background: none;
+    border-radius: 31px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 40px;
+    transition: background .2s,color .2s;
+
+}
+
+.freebutton
+{   
+    margin-left: 25px;
+    width: 145px;
+    background: rgb(101, 115, 225);
+    border: none;
+    border-radius: 31px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 40px;
+    transition: background .2s,color .2s;
+
+}
+
+.buybutton:hover
+{
+    background-color: black;
+    color: #fff;
+}
+.freebutton:hover
+{
+    background-color: blueviolet;
+
+}
+.ltext1
+{
+    margin-top: 35px;
+}
+.lasttext
+{
+    display: flex;
+    margin-left: 160px;
+    line-height: 2;
+    font-weight: 600;
+    height: 35px;
+}
+.longbar
+{   
+    display: flex;
+    background-image: url(/images/dt_photochooser_banner_1920x90-1.jpg);
+    height: 82px;
+
+}
+.maintxt
+{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 338px;
+}
+.phototxt
+{
+ color: black;
+ font-weight: 500;
+ font-size: 20px;
+}
+
+
+.quizbtn
+{
+    display: flex;
+    margin-left: 103px;
+    margin-top: -9px;
+    width: 66%;
+}
+.quizbutton
+{   
+    width: 145px;
+    background: none;
+    border-radius: 31px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 40px;
+    transition: background .2s,color .2s;
+
+}
+.quizbutton:hover
+{
+    background-color: black;
+    color: #fff;
+} 
+.mainhead
+{
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    font-size: 36px;
+    margin-top: 40px;
+}
+.secondbody
+{   display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 55px;
+    justify-content: space-around;
+}
+.firstbox
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f8f8;
+    height: 600px;
+    width: 360px;
+
+}
+
+
+.t1hednum
+{
+ text-align: center;
+ font-weight: bolder;
+ color: black;
+ font-size: 36px;
+}
+
+.t1hed
+{
+    font-weight: 500;
+    font-size: 22px;
+    margin-left: 14px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+
+.t1des
+{
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 4px;
+    margin-top: 15px;
+    text-align: center;
+    line-height: 2;
+}
+
+.dog
+{
+    
+    width: 250px;
+    height: 250px;
+    margin-left: 44px;
+    margin-top: 44px;
+}
+
+.t3des
+{
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 4px;
+    margin-top: 15px;
+    text-align: center;
+    line-height: 2;
+}
+.tree
+{
+    
+    width: 250px;
+    height: 250px;
+    margin-left: 44px;
+    margin-top: -30px;
+}
+.line
+{
+    background-color: #3a81e4;
+    margin-top: 30px;
+    height: 14px;
+}
+.footerhead
+{
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    font-size: 36px;
+    margin-top: 40px;
+}
+.footerbutton
+{
+    margin-top: 50px;
+    display: flex;
+    -ms-flex-align: center;
+    width: 266px;
+    margin-left: 635px
+}
+.footer
+{ 
+    display: flex;
+    height: 22px;
+    margin-top: 73px;
+    margin-left: 40px; 
+}
+
+.change
+{
+    text-align: center;
+    font-weight: 100;
+    font-size: 13px;
+    margin-left: 10px;
+}
+.cpyrt
+{
+    margin-left: 628px;
+    font-weight: 100;
+    font-size: 13px;
+}
+.message
+{
+    position: fixed;
+    bottom: 0px;
+    right: 40px;
+    margin-bottom: 30px;
+}
+
