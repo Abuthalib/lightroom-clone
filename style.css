@@ -37,6 +37,7 @@
     display: flex;
     flex-direction: column;
     background-image:url(./images/Lr-SEM-LP-.jpg);
+    background-position: center;
     height: 680px;
 }
 .lrlogo
