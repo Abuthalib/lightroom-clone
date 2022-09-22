@@ -36,7 +36,7 @@
 {
     display: flex;
     flex-direction: column;
-    background-image:url(/images/Lr-SEM-LP-.jpg);
+    background-image:url(./images/Lr-SEM-LP-.jpg);
     height: 680px;
 }
 .lrlogo
@@ -131,7 +131,7 @@ font-weight: bold;
 .longbar
 {   
     display: flex;
-    background-image: url(/images/dt_photochooser_banner_1920x90-1.jpg);
+    background-image: url(./images/dt_photochooser_banner_1920x90-1.jpg);
     height: 82px;
 
 }
